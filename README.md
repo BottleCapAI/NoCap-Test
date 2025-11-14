@@ -23,16 +23,17 @@ Training frontier LLMs costs **tens of millions** today. Our new algorithms alre
 
 ---
 
-## 🏆 Prizes & Deadline
+## 🏆 First Competition has Finished. 
 
-- **1st place:** $3,000 USD  
-- **2nd place:** $2,000 USD  
-- **3rd place:** $1,000 USD  
+**Your self-paced submissions are always welcome! Competition or no-competition, let us know if you have speed up!💪**
 
-**Submission deadline:** **11.11.2025** 
+**[Update November 13: We have winners! See the anouncement 🏆](https://x.com/BottleCapAI/status/1989014669806432502?s=20)**
+- **1st place:** $3,000 USD  Jan Chleboun
+- **2nd place:** $2,000 USD  Andrej Nosov
+- **3rd place:** $1,000 USD  Dominik Jurko
 
-Prizes are awarded based on the best validated results shared via the submission process below. Ties may be broken by total training time and clarity of write-up.
-
+Competition deadline: 11.11.2025.
+Prizes were awarded based on the best validated results shared via the submission process below. Ties may be broken by total training time and clarity of write-up.
 
 ---
 
