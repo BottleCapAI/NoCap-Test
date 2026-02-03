@@ -555,10 +555,6 @@ if __name__ == "__main__":
             # backward pass
             loss.backward()
 
-        train_loss /= (
-            args.grad_accumulation_steps
-        )  # average the loss over all micro steps
-
         # determine and set the learning rate for this iteration
         lr = get_lr(step)
         for param_group in optimizer.param_groups:
