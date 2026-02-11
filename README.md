@@ -86,7 +86,7 @@ The dataset is pre-tokenized so that you don't have to do that yourself (saves t
 To run the baseline, run the following commands.
 ```bash
 git clone git@github.com:BottleCapAI/NoCap-Test && cd NoCap-Test/
-pip install -r requirements.txt
+pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/nightly/cu128
 
 # you can skip this if you don't want to use W&B, in which case you should remove the --log_wandb argument from run.sh
 wandb login
